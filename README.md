@@ -1,4 +1,4 @@
-# Genetic_Algorithm
+# Genetic Algorithm Python implementation
 Basic genetic algorithm optimization project
 
 - The algorithm was completely developed in Python language
